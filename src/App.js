@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class App extends Component {
   state = {
     Person: {
-      fullName: "",
+      fullName: "HASSANI Thafsouthe",
       bio: "I am an Operations Research Engineer and a web developer. Problem solving is my passion.",
       imgSrc: "https://via.placeholder.com/150",
       profession: "Information Processing Officer"
